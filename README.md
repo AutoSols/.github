@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://autosols.com/150x150.png?text=LOGO" width="120" alt="Automated Solutions Logo">
+</p>
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, We're [Automated Solutions](https://autosols.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### WE BUILD SOFTWARE THAT SCALES YOUR BUSINESS :octocat:
@@ -24,11 +26,12 @@ an existing product, we keep communication direct and delivery on schedule.
 <img align="right" height="220" width="360" alt="Automated Solutions" src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" />
 
 - 💻 &nbsp; Custom full-stack web apps & APIs, built to production standard
-- 🤖 &nbsp; AI-powered features and automation integrating LLMs into real workflows
+- 🤖 &nbsp; AI-powered features and automation — integrating LLMs into real workflows
+- 🛍️ &nbsp; Shopify store setup, customization, and marketing (SEO, ads, conversion)
 - 📈 &nbsp; SaaS products we design, build, and scale ourselves
 - 🎨 &nbsp; Clean, modern UI/UX for web and mobile
 - 🔧 &nbsp; Ongoing support and scaling for existing products
-- 📩 &nbsp; Open to select client partnerships see contact below
+- 📩 &nbsp; Open to select client partnerships — see contact below
 
 <p>
   <a href="https://linkedin.com/company/autosolsofficials](https://pk.linkedin.com/company/autosolsofficial">
@@ -111,7 +114,9 @@ const automatedSolutions = {
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="120">
 </p>
-
+<a href="https://wa.me/923390395505">
+  <img src="https://img.shields.io/badge/-WhatsApp-black?style=flat&labelColor=212121&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+</a>
 <p align="center">
   <sub>📩 Want to build something together? Reach out via <a href="https://autosols.com">our website</a>.</sub>
 </p>
