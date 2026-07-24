@@ -19,7 +19,7 @@ an existing product, we keep communication direct and delivery on schedule.
 <p align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
 </p>
-### :rocket: What we do
+:rocket: What we do
 
 <img align="right" height="220" width="360" alt="Automated Solutions" src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" />
 
