@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/automated-solutions/.github/main/git-sign.svg" width="120" alt="Automated Solutions Logo">
+  <img src="https://raw.githubusercontent.com/automated-solutions/.github/main/git-sign.png" width="120" alt="Automated Solutions Logo">
 </p>
 
 
