@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://autosols.com/150x150.png?text=LOGO" width="120" alt="Automated Solutions Logo">
-</p>
+
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, We're [Automated Solutions](https://autosols.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### WE BUILD SOFTWARE THAT SCALES YOUR BUSINESS :octocat:
